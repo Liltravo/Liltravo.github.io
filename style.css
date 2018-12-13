@@ -25,3 +25,8 @@ img#deku2 {
    left: -20%;
    text-align: left
 }
+
+a {
+  color: white;
+  font-size: 200%;
+}
