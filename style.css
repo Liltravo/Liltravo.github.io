@@ -1,0 +1,27 @@
+p{
+  font-size:130%;
+   color: yellow;
+  font-family: cursive
+}
+h1{
+  color:yellow
+}
+img#deku {
+  
+  float: right;
+
+  position: relative;
+  left: -20%;
+  text-align: left;
+
+}
+body{
+ background-image: url("https://vignette.wikia.nocookie.net/bokunoheroacademia/images/e/e0/Izuku_And_Katsuki_As_Kids.png/revision/latest/scale-to-width-down/640?cb=20170703164904");
+  background-size:cover;    
+}
+img#deku2 {
+  float: right; 
+  position: relative;
+   left: -20%;
+   text-align: left
+}
